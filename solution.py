@@ -159,8 +159,8 @@ def main():
                 
 
     #(Optional)printing the grid
-    for x in grid:
-        print(x)
+    #for x in grid:
+    #    print(x)
 
 
     #prefix_sum[j][i] is the number of "-" in the rectangle from the origin to (i,j)
